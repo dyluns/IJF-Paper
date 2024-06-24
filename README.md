@@ -1,0 +1,1 @@
+This repo contains the supplementary document for paper titled *A framework for timely and accessible long-term forecasting of shale gas production based on time series pattern matching* submitted to *International Journal of Forecasting*.
